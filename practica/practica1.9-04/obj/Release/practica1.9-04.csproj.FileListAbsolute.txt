@@ -113,3 +113,4 @@ C:\Users\Emily HP\Source\Repos\practica9-04-21\practica\practica1.9-04\obj\Relea
 C:\Users\Emily HP\Source\Repos\practica9-04-21\practica\practica1.9-04\obj\Release\practica1.9-04.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\practica9-04-21\practica\practica1.9-04\obj\Release\practica1.9-04.dll
 C:\Users\Emily HP\Source\Repos\practica9-04-21\practica\practica1.9-04\obj\Release\practica1.9-04.pdb
+C:\Users\Emily HP\Source\Repos\practica9-04-21\practica\practica1.9-04\obj\Release\practica1.9-04.csprojAssemblyReference.cache
