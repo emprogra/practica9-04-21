@@ -12,5 +12,7 @@ namespace practica1._9_04.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<practica1._9_04.Models.Person> People { get; set; }
     }
 }
